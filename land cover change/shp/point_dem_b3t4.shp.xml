@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230203</CreaDate><CreaTime>20264500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\Rename" Date="20230203" Time="202645">Rename "D:\drone_method\addition\land cover change\shp\stat_b3t4.shp" "D:\drone_method\addition\land cover change\shp\point_dem_b3t4.shp" ShapeFile</Process></lineage></DataProperties></Esri></metadata>

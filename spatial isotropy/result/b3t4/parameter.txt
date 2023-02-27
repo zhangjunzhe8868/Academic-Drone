@@ -1,0 +1,28 @@
+b3t4
+minilag=-3
+soil:nsteps==2500
+the value of max and min
+      533.880
+      361.344
+the locations of max and min in array
+          69         159
+          37         127
+the angles of max and min
+      138.000      318.000
+      74.0000      254.000
+elong
+      1.47748
+
+minilag=-3
+veg:nsteps==120
+the value of max and min
+      16.9021
+      14.9850
+the locations of max and min in array
+          14         104
+          37         127
+the angles of max and min
+      28.0000      208.000
+      74.0000      254.000
+elong
+      1.12794

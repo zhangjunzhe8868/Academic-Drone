@@ -1,0 +1,20 @@
+ENVI
+description = {
+  User Defined Mask Image [Wed Aug 08 15:19:35 2018]}
+samples = 4000
+lines   = 4000
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 71
+y start = 13
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -106.76444315, 32.55229050, 7.5436999999e-008, 7.5436999999e-008, WGS-84, units=Degrees}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+wavelength units = Unknown
+default stretch = 0.000000 1.000000 linear
+band names = {
+ Mask Band}
