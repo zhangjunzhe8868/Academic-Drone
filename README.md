@@ -16,7 +16,7 @@ https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.3069
 
 The data is https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-jrn.210228002.1
 
-1. land cover change provides a solution to extract the land surface height and cover from the DEM and ortho image
-2. spatial explicit model proofs that the distribution of a land surface property could be inferenced if we have more samples and the sample mean of a land surface property is always a normal distribution if we have more draws of samples.
+1. land cover change provides a solution to extract the land surface height and cover from the DEM and ortho image.
+2. spatial explicit model proofs that the distribution of a land surface property could be inferenced if we have more samples and the sample mean of a land surface property is always a normal distribution (CLT) if we have more draws of samples.
 3. spatial isotropy provides a solution to detect the connectivity in 360 degree directions. 
 
